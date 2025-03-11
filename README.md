@@ -20,6 +20,13 @@
 
 - Monitoring
 
+# Course structure
+
+- Week1 - Introduction to MLOps
+[Notebook](https://github.com/heksaani/MLOPS/blob/main/week1/week1_assignments/week1_assignment_putkuri.ipynb) - DeepCheck, Containers and Kubernetes
+- Week2 - Data management
+[Notebook](https://github.com/heksaani/MLOPS/blob/main/week2/week2_assignments/week2_assignment.ipynb) -  TheFuzz, Great Expectations
+
 ## Learning outcomes
 
 Compare the difference between developing ML systems with classical software.
