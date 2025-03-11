@@ -1,0 +1,31 @@
+﻿Columns in 'deals.csv':;;
+name;type;description
+datesold;string;Date of the deal
+price;integer;Price of the sold house in Australian dollars
+building_year;integer;The building year of the sold house
+bedrooms;integer;Number of bedrooms in the house
+postcode;integer;Postcode of the region where the sold house resides
+area;string;Name of the district where the sold house resides
+;;
+Columns in 'house_info.json':;;
+name;type;description
+date;string;Date of the deal
+postcode;integer;Postcode of the region where the sold house resides
+area;string;Name of the district where the sold house resides
+bedrooms;integer;Number of bedrooms in the house
+bathrooms;float;Number of bathrooms in the house
+yr_built;integer;The building year of the sold house
+yr_renovated;float;The year the sold house was renovated (if any)
+condition;string;Condition of the sold house
+grade;integer;Overall grade for the sold house
+floors;float;Number of floors in the house
+sqft_living;integer;The amount of living space (floor area) of the house in square feet
+sqft_lot;integer;Lot (property) size of the house in square feet
+sqft_above;integer;The amount of living space above ground level in square feet
+sqft_basement;integer;The amount of living space below ground level in square feet
+sqft_living15;float;The average living space (floor area) of the 15 nearest neighboring houses in square feet
+sqft_lot15;float;The average lot (property) size of the 15 nearest neighboring houses in square feet
+waterfront;integer;Whether the lot has a view for a waterline (1 for yes and 0 for no)
+view;integer;How good is the view from the house
+distance;float;Crow's flight distance from the city center
+prev_owner;string;Surname of the previous owner of the house
